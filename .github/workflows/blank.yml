@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: hectoruri212/practica:tagname:latest
+          tags: hectoruri212/practica:latest
